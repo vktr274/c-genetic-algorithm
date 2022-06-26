@@ -1,0 +1,14 @@
+# map dimensions
+# (width, height) from <1, ...)
+(12, 10)
+
+# obstacles
+# [line, column] from <0, ...)
+{
+[2, 1]
+[1, 5]
+[4, 2]
+[3, 4]
+[6, 8]
+[6, 9]
+}
